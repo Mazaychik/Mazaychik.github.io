@@ -56,7 +56,8 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png(https://github.com/tandpfun/skill-icons)](https://www.pngaaa.com/detail/6692094)" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/de374033-01d7-4cae-b5e2-1756e2b69be2" />
+" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ## Автотесты

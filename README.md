@@ -1,5 +1,5 @@
-## Привет！ 👋
-Меня зовут Максим, я начинающий и целеустремлённый QA Engineer
+## Привет！Я Максим👋
+Начинающий специалист,целеустремлённый и внимательный к деталям QA Engineer!
 
 ## 📊 Статистика
 
@@ -89,7 +89,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:mazmaxmazaev@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mazaev_m)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
